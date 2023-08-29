@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AydenAdair
 - 👀 I’m interested in software engineering, security, robotics, and all things code!
-- 📫 Always happy to call and connect with other Confluent people!
+- 📫 Contact me at aydencodes@gmail.com or on Slack for my Confluent coworkers.
 
 <!---
 AydenAdair/AydenAdair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
